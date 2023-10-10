@@ -1,5 +1,4 @@
 English
 maths
 physics
-chemistry
 bio
